@@ -14,6 +14,7 @@ MP3 support only currently
 Quick Key reset in settings for QWERTY keyboards
 
 Upcoming possible features for future versions:
+Ability to run without focus on PC
 WAV support
 Icon mapping on keys in main program page instead of JUST key mapping
 DEVORAK, ABCDEF and other qucik keyboard reset options in settings
